@@ -1,88 +1,18 @@
 # A Crash Course in Web Development
 
-_Making websites involves many steps! Let's break it into pieces_
-
 ![How to drawn an owl](http://snag.gy/Z2Spu.jpg)
 
-## Topics Covered
 
-### Start: Essential Tools
-+ Modern Browser with Web Inspector
-+ Computer
-+ Text Editor
+_Everything looks complicated when it isn't broken into chunks._
 
-Before we begin, pick a favorite website and open up your web inspector. 
+## Topics
 
-> Talk about web inspector. mess around with changing text and picking colors
-
-See if you can figure out how to put a fake headline on a website! 
-
-### What are Websites? How do they Work?
-+ Servers and Clients
-
-### Website Structure - Overview
-+ HTML -
-> Websites from 1995
-> Modern Inspiration Gallery
-+ CSS
-> Investigate CSS Zen Garden
-+ JS
-
-## A note about Accessibility: 
-+ Colors
-+ Screenreaders
-+ Text sizing
-+ Mobile first
-+ Contrast
+- [Kindling][kindling]: Basic Concepts
+- [Sparks][sparks]: Coding Your First Website
+- [Ignition][ignition]: What's Next?
 
 
-### Making Modern Websites: Sample Site
-+ Page Architecture Overview
-+ Adding HTML Elements
-+ Adding Basic Styles
-+ Adding Animations
-+ Adding Javscript Logics
 
-<!-- TODO: Add Links -->
-### Tools (Split into separate page)
-+ Github Pages: Site Deployment
-+ Code Previews
-    + JSFiddle
-    + JSBin
-    + Codepen.io
-+ scrapf.io 
-
-### Ignition: What's Next?
-+ Design
-    + Principles
-        + User Interface Design
-        + User Experience Research and Documentation
-        + Writing Personas and Case Studies
-    + In Practice
-        + Responsive Design (Screen Sizes and Asset Delivery)
-        + Design Prototyping
-        + Mockups and Wireframing
-+ Productive Coding
-    + Faster + better workflow with Sublime Text 3 Plugins (Emmett etc)
-    + Type Faster (suite gauntlet link)
-    + Scaffolding Grid Frameworks: Bootstrap and Foundation
-    + Tooling Workflows with Gulp and Grunt
-+ Site Performance
-    + Pagespeed Insights
-    + File compression and server optimization
-+ Coding in Teams
-    + Establishing Styleguides
-    + Commenting Conventions
-    + Using Github and Version Control
-    + Common development environments with Vagrant and Docker
-+ Code Preprocessors
-    + CSS: Sass, Less, and Stylus
-    + JS: CoffeeScript
-    + HTML: Jade, Haml, etc
-+ Application Development
-    + Take a intro programming course via [Stanford Online](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about) or [Free Code Camp](http://www.freecodecamp.com/)
-    + Learn Server-Side Code (PHP, Ruby, Python, NodeJS)
-    + Learn a Query Language with a Database (SQL, Mongo, MySQL)
-    + Learn a framework (Flask, Ruby on Rails)
-
-[Additions](http://cameronyick.us/resources)
+[kindling]: https://github.com/hydrosquall/sparky-website-tutorial/blob/master/course-notes/kindling.md
+[sparks]: https://github.com/hydrosquall/sparky-website-tutorial/blob/master/course-notes/sparks.md
+[ignition]: https://github.com/hydrosquall/sparky-website-tutorial/blob/master/course-notes/ignition.md
