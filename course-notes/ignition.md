@@ -1,7 +1,16 @@
 ### Ignition: What's Next?
+![medal](sparky.png)
+####Congratulations! You've built your first website! 
 
-Congratulations! You've built your first website. What would you like to learn next?
+What can we do next?
 
+**Recommended**: Put your website live on the web for FREE with Github [Pages](https://pages.github.com/)! (Requires Github Account)
+
+There's a whole wide world of content to learn and master. I hope you had fun learning the basics of websites and web design, and would love to see the work that you produce! I'll happily retweet your work and add your page to a student gallery, just leave a comment on this project.
+
+Without further ado, here some things to explore after finishing your first basic website.
+
+#### Working list of tracks
 + **Design**
     + **Principles** - 31. "Good design adds value faster than it adds cost."- Thomas C. Gale
         + DRY and KISS
@@ -14,7 +23,7 @@ Congratulations! You've built your first website. What would you like to learn n
         + Mockups and Wireframing : on paper or with software
 + **Productive Coding** - Write faster and more accurately!
     + Typing workflow with Sublime Text 3 Plugins (Emmett etc)
-    + Type Faster (suite gauntlet link)
+    + Type Faster with [keybr](http://www.keybr.com/)
     + Scaffolding Grid Frameworks: Bootstrap and Foundation
     + Tooling Workflows with Gulp and Grunt
 + **Site Performance** - Speed is a feature!
@@ -42,3 +51,5 @@ Congratulations! You've built your first website. What would you like to learn n
     _Work in Progress: Expanded regularly_
 
 [Additions](http://cameronyick.us/resources)
+
+###[Back to Home](overview.md)

@@ -1,5 +1,8 @@
 # Sparky Website Tutorial
 
+![Course Pitch](sparky.png)
+
+
 By [Cameron Yick][author] for [Rippowam Labs][sponsor]
 
 Introducing web development through building a lightweight business website
@@ -22,7 +25,7 @@ Introducing web development through building a lightweight business website
 2. HTML corresponds to `index.html`, CSS corresponds to `assets/styles.css`, and JS corresponds to `assets/main.js`
 
 After you have the starter files ready...
-+ Visit [this page][tutorial] get ready to learn!
++ Visit [this page][tutorial] and get ready to learn!
 + Refer to `reference-files` if you get stuck!
 + Leave comments on any files or lines you find confusing
 
@@ -38,12 +41,12 @@ After you have the starter files ready...
 
 ##### If you found this tutorial helpful, consider scrolling to the top of the page and starring this project :)
 
-<!-- TODO: Link to codepen -->
+<!-- TODO: Link to codepen. Look into relative filepaths -->
 <!-- TODO: Refactor jade items with mixins -->
 [author]: http://www.cameronyick.us
 [sponsor]: https://github.com/RippowamLabs
-[tutorial]: https://github.com/hydrosquall/sparky-website-tutorial/blob/master/course-notes/overview.md
+[tutorial]: course-notes/overview.md
 [final site]: http://www.cameronyick.us/sparky/
-[resources]: https://github.com/hydrosquall/sparky-website-tutorial/blob/master/course-notes/resources.md
+[resources]: course-notes/resources.md
 [starterFiles]: https://github.com/hydrosquall/sparky-website-tutorial/tree/master/course-notes
-[codepen]: https://codepen.io/samplelink
+[codepen]: http://codepen.io/hydrosquall/pen/KpLqZV
